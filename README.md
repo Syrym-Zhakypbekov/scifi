@@ -1,5 +1,7 @@
 # NLP Multilingual Translation Project
 
+update line od code
+
 ## Overview
 
 This project focuses on Natural Language Processing (NLP) for multilingual translation. It aims to develop a method for automatic translation and emotional synthesis of speech in audio-visual media to the Kazakh language.

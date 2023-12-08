@@ -1,0 +1,45 @@
+# Deep Learning Frameworks
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# Audio Processing Libraries
+librosa
+SoundFile
+pydub
+
+# Natural Language Processing & Translation
+transformers
+sentencepiece
+huggingface-hub
+nltk
+spacy
+polyglot
+
+# Emotion Recognition Libraries
+pyAudioAnalysis
+
+# Speech Synthesis Tools
+gTTS
+pyttsx3
+
+# Utilities and Data Handling
+numpy
+pandas
+scipy
+matplotlib
+jupyter
+jupyterlab
+scikit-learn
+seaborn
+
+# Visualization Tools
+plotly
+dash
+
+# Additional Supporting Libraries
+requests
+beautifulsoup4
+lxml
